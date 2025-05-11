@@ -1,0 +1,1 @@
+web: gunicorn hvac_sales_backend.wsgi --log-file -
